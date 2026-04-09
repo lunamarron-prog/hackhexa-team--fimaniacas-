@@ -1,0 +1,1 @@
+Para decifrar el mensaje original se tomo cada una de las letras mencionadas en el codigo y se tomo la letra anterior a esa respecto al abecedario para poder tener el mensaje, dando como resultado "HOLA MUNDO".
