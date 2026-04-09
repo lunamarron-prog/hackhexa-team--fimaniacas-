@@ -1,1 +1,2 @@
 # hackhexa-team--fimaniacas-
+Un equipo inspirado en la creación de soluciones y de la implementación de herramientas capaces de facilitar en actividades cotidianas. Crea nuevas condiciones para el análisis lógico ante probables actividades sospechosas. Muestran el trayecto más viable para que un pequeño zorro pueda llegar seguro en toda una ciudad. Fimaniacas viene para mostrar lo mejor de la implementación de lógica e ingenio en la vida cotidiana, mostrando una actitud positiva ante todo.
